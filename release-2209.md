@@ -21,3 +21,5 @@ description: 30 September 2022
 \[FIX] Use Case Policy: Improved variant handling for the policy value list
 
 \[FIX] System Connection: Database connection for HANA database is not mandatory anymore
+
+\[FIX] Authorization: The Protect4S TD authorization roles have been improved
