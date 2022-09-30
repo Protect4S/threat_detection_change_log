@@ -8,6 +8,8 @@ description: 30 September 2022
 
 \[FEATURE] Use Case Policy: The use case policy scope is ordered by rank
 
+\[FEATURE] User Interface: New Protect4S Default Application Variants
+
 \[FEATURE] Use Case: S-000080-01: Unsuccessful ABAP Bruteforce or Password spray attempts
 
 \[FEATURE] Use Case: S-000090-01: Successful ABAP Bruteforce or Password spray attempts
