@@ -22,13 +22,13 @@ description: 26 December 2022
 
 \[FEATURE] Use Case Policy: Inactive lines are greyed out
 
-\[FEATURE] Messages: By default the group is visible as filterable
+\[FEATURE] Messages App: By default the group is visible as filterable
 
 \[FEATURE] Messages: New message with the unexecuted use cases because of a data source error
 
 \[FIX] SIEM: The number of threats to send at once is limited to 2.000
 
-\[FIX] Messages: The use case ID was not displayed in the details
+\[FIX] Messages App: The use case ID was not displayed in the details
 
 \[FIX] Framework: Correct order of threat creation within the same detection interval
 
