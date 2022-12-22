@@ -10,6 +10,10 @@ description: 26 December 2022
 
 \[FEATURE] Use Case: New S-000140-01: Unsuccessful RFC Gateway exploitation via sec\_info
 
+\[FEATURE] Use Case: S-000080-01: New time period parameter to suppress duplicate threats
+
+\[FEATURE] Use Case: S-000090-01: New time period parameter to suppress duplicate threats
+
 \[FEATURE] Health Check: New Health checks for system and data sources
 
 \[FEATURE] System: Option to inactivate a system between a period
