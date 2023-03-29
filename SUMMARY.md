@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Release 2303](release-2303.md)
 * [Release 2212](release-2212.md)
 * [Release 2211](release-2211.md)
 * [Release 2209](release-2209.md)
