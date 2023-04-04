@@ -4,11 +4,17 @@ description: 30 March 2023
 
 # Release 2303
 
+\[FEATURE] Threat Output: SIEM IBM QRadar method HTTP Receiver is supported
+
 \[FEATURE] Threat Output: Sending threats via E-mail is supported
 
-\[FEATURE] Threat Output: Field Threat UUID is added to the threat
+\[FEATURE] Threat: Field Threat UUID is added to the threat
 
-\[FEATURE] Threat Output: Field Message Type = "Threat" is added to the threat
+\[FEATURE] Threat: Field Message Type = "Threat" is added to the threat
+
+\[FEATURE] Threat: Field User Name is added to the threat
+
+\[FEATURE] Event: Field TARGET\_SID is added to the event
 
 \[FEATURE] System Connection: Oracle database service name can be provided
 
