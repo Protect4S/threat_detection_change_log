@@ -10,8 +10,8 @@ description: 30 May 2023
 
 \[FEATURE] Use Case: S-000250-01: Unsuccessful SAP Message Server (10Kblaze) exploitation
 
-\[FEATURE] Use Case: S-000260-01: Policy to permit connectivity to the message server
+\[FEATURE] Use Case: S-000260-01: Potential port scan detected against the message server port
 
-\[FEATURE] Use Case: S-000270-01: Policy to permit control flow changes during debugging
+\[FEATURE] Use Case: S-000270-01: Debugging with change of control flow
 
 \[FEATURE] System: Support for system type Java (Java use cases in the next release)
