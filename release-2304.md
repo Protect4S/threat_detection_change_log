@@ -8,4 +8,6 @@ description: 24 April 2023
 
 \[FEATURE] Use Case: New S-000210-01: Lateral movement through RFC Hopping
 
+\[FEATURE] System Connection: Option to use SSL certificate for SAPControl connection
+
 \[FIX] User Interface: All applications are set fixed to language English
