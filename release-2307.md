@@ -34,6 +34,10 @@ description: 31 July 2023
 
 \[FEATURE] Use Case: S-000460-03: HANA audit trail default type changed
 
+\[FEATURE] Threat Output: SIEM Splunk method REST API is supported
+
+\[FEATURE] Threat Output: SIEM Elastic method REST API is supported
+
 \[FEATURE] Support: New forms for feature request and software defect in the launchpad
 
 \[FIX] User Interface: Update SAPUI5 framework to version 1.108.18
